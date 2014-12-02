@@ -7,3 +7,4 @@ public_testcases: 0, 1, 2, 3, 4
 infile: ""
 outfile: ""
 token_mode: disabled
+score_type: GroupMin

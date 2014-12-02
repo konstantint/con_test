@@ -5,3 +5,4 @@ memory_limit: 256
 n_input: 10
 public_testcases: 0, 1, 2, 3, 4
 token_mode: infinite
+score_type: GroupMin

@@ -8,3 +8,4 @@ infile: ""
 outfile: ""
 total_value: 200
 token_mode: infinite
+score_type: Sum
